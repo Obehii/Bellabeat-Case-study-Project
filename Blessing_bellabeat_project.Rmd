@@ -364,15 +364,5 @@ The Bellabeat app need to be a unique fitness activity app. By becoming a compan
 
 
 
-Thank you very much for your interest in my Bellabeat Case Study!
+Thank you !
 
-And I would appreciate any comments and recommendations for improvement!
-
-Please stay well and bye bye !
-
-
-Note that there were more participant Ids in the daily activity dataset that have been filtered out using merge. Consider using 'outer_join' to keep those in the dataset. 
-
-Now you can explore some different relationships between activity and sleep as well. For example, do you think participants who sleep more also take more steps or fewer steps per day? Is there a relationship at all? How could these answers help inform the marketing strategy of how you position this new product?
-
-This is just one example of how to get started with this data - there are many other files and questions to explore as well!
